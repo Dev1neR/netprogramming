@@ -1,4 +1,5 @@
 #include "common_utils.h"
+#define BUFFER_SIZE 512
 using namespace std;
 	int main(int argc,char* argv[]){
 		//Буфер повідомлень
